@@ -6,7 +6,7 @@ tagline: "High-mass starless clumps in the inner Galactic plane."
 
 # Project Introduction
 
-From 10861 ATLASGAL clump, we identify 463 high-mass starless clump 
+From 10861 ATLASGAL clump, we identified 463 high-mass starless clump 
 (HMSC) candidates with −60 < l < 60 degree and −1 < b < 1 degree. 
 All of these sources have been queried in SIMBAD to make sure they 
 are not associated with any known star-forming indicator. Young 
@@ -33,3 +33,5 @@ sources with equivalent radii < 0.15 pc and Σ > 0.08 g/cm2
 could be possible high-mass starless cores. Further investigations 
 toward these HMSCs would undoubtedly shed light on comprehensively 
 understanding the birth of high-mass stars.
+
+# Main results

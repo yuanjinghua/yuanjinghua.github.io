@@ -4,11 +4,19 @@ title: "HMSCs"
 tagline: "High-mass starless clumps in the inner Galactic plane."
 ---
 
+Some parameters and dust emission images for each source can
+be accessed via click on the source name. Links to FITS files,
+including dust emission images at Hi-GAL and ATLASGAL bands, and dust 
+temperature and column density maps, are provided in the 
+last column of the following table.
+
+<br />
+
 Full list of the newly identified high mass starless clumps
 {: style="color:Red; font-size: 120%; text-align: center;"}
 
-| No.     | Source Name | RA | DEC | fits files |
-|:--------|:-------:|--------:| --------:| --------:| 
+| No.      | Source Name | R.A. (J2000) | Dec (J2000) | fits files |
+|:--------:|:-------:|:--------:|:--------:|:--------:| 
 |   1 | [G000.0335+0.2051]({{ site.baseurl }}/hmscs/G000.0335+0.2051.html) | 17h44m54.07s | -28d48m02.2s | [G000.0335+0.2051.tar.gz]({{ site.baseurl }}/hmscs/fits/G000.0335+0.2051.tar.gz) |
 |   2 | [G000.0355+0.2241]({{ site.baseurl }}/hmscs/G000.0355+0.2241.html) | 17h44m49.90s | -28d47m20.4s | [G000.0355+0.2241.tar.gz]({{ site.baseurl }}/hmscs/fits/G000.0355+0.2241.tar.gz) |
 |   3 | [G000.0474+0.1124]({{ site.baseurl }}/hmscs/G000.0474+0.1124.html) | 17h45m17.69s | -28d50m13.6s | [G000.0474+0.1124.tar.gz]({{ site.baseurl }}/hmscs/fits/G000.0474+0.1124.tar.gz) |
