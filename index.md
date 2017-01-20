@@ -5,3 +5,4 @@ tagline: "Research Associate at National Astronomical Observatories, Chinese Aca
 ---
 
 Wellcome to my homepage!
+{: style="color:Blue; font-size: 120%; text-align: right;"}
