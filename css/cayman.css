@@ -4,10 +4,10 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Gill Sans", "Helvetica Neue", Helvetica, Arial, sans-serif, serif;
   font-size: 18px;
   line-height: 1.5;
-  color: #000000; }
+  color: #3C3C3C; }
 
 a {
   color: #1e6bb8;
@@ -120,7 +120,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #159957; }
+    color: #000000; }
   .main-content p {
     margin-bottom: 1em; }
   .main-content code {
