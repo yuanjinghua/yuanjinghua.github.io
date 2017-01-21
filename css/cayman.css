@@ -92,9 +92,11 @@ a {
       font-size: 1.25rem; } }
 
 .main-content {
-  word-wrap: break-word; }
+  word-wrap: break-word;
+  text-align: justify;
+   text-align-last: justify;}
   .main-content :first-child {
-    margin-top: 0; }
+    margin-top: 0;}
   @media screen and (min-width: 64em) {
     .main-content {
       max-width: 64rem;
