@@ -94,7 +94,7 @@ a {
 .main-content {
   word-wrap: break-word;
   text-align: justify;
-   text-align-last: justify;}
+   text-align-last: left;}
   .main-content :first-child {
     margin-top: 0;}
   @media screen and (min-width: 64em) {
