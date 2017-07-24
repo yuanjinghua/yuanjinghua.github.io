@@ -6,6 +6,8 @@ paginate:     1
 
 # secondary settings
 header-img: img/hiGAL.jpg
+hmsc-title:    HMSCs--High-mass star starless clumps in the inner Galactic Plane
+
 
 # About/contact
 author:
@@ -15,6 +17,7 @@ author:
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 #Others
 markdown: kramdown
