@@ -4,11 +4,14 @@ title: "Research"
 tagline: "My research highlights"
 ---
 
-## 5. Dynamic high-mass star formation in a hot core (ongoing)
+## 5. [Filamentary Flows and Clump-fed HMSF in G22](http://adsabs.harvard.edu/abs/2017arXiv171108951Y)
 
-![]({{ site.baseurl }}/img/G22_outflow.png)
+How mass is accumulated from cloud-scale down to individual stars is a key open question in understanding high-mass star formation. Here, we present the mass accumulation process in a hub-filament cloud G22 which is composed of four supercritical filaments. Velocity gradients detected along three filaments indicate that they are collapsing with a total mass infall rate of about 440 Msun/Myr, suggesting the hub mass would be doubled in six free-fall times, adding up to ~2 Myr. A fraction of the masses in the central clumps C1 and C2 can be accounted for through large-scale filamentary collapse. Ubiquitous blue profiles in HCO+ (3-2) and 13CO (3-2) spectra suggest a clump-scale collapse scenario in the most massive and densest clump C1. The estimated infall velocity and mass infall rate are 0.31 km/s and 7.2×10^-4 Msun/yr, respectively. In clump C1, a hot molecular core (SMA1) is revealed by the SMA observations and an outflow-driving high-mass protostar is located at the center of SMA1. The mass of the protostar is estimated to be 11-15 Msun and it is still growing with an accretion rate of 7×10^-5 Msun yr. The coexistent infall in filaments, clump C1, and the central hot core in G22 suggests that pre-assembled mass reservoirs (i.e., high-mass starless cores) may not be required to form high-mass stars. In the course of high-mass star formation, the central protostar, the core, and the clump can simultaneously grow in mass via core-fed/disk accretion, clump-fed accretion, and filamentary/cloud collapse.
 
-![]({{ site.baseurl }}/img/G22_infall.png)
+
+![]({{ site.baseurl }}/img/g22_Fig1.png)
+
+![]({{ site.baseurl }}/img/g22_Fig2.png)
 
 ## 4. [High-mass starless clumps in the inner Galactic Plane]({{ site.baseurl }}/hmscs.html)
 
